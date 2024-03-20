@@ -10,7 +10,7 @@ document.getElementsByClassName("olivia_moswa")[0];
 // olivia moswa text end
 
 // designer text
-firstText = "Owner of EX-3 Limited";
+firstText = "Founder OF EX-3 LIMITED";
 // secondText = "Developer";
 // thridText = "Freelancer"
 intervalTime = 600;
@@ -74,7 +74,7 @@ for (var index = 0; index < tabs2.length; index++) {
 // card Tabs end
 
 // circle Img my project click event
-const elements = document.getElementById("portfolio");
+const elements = document.getElementById("resume");
 const homeNavabr = document.getElementById("home");
 const circular_imgClick = document.getElementsByClassName("circular_text_main");
 
